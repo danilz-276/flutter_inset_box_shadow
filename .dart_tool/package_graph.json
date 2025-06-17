@@ -1,10 +1,10 @@
 {
   "roots": [
-    "flutter_inset_box_shadow"
+    "flutter_inset_box_shadow_update"
   ],
   "packages": [
     {
-      "name": "flutter_inset_box_shadow",
+      "name": "flutter_inset_box_shadow_update",
       "version": "1.0.8",
       "dependencies": [
         "flutter"
@@ -24,13 +24,13 @@
       ]
     },
     {
-      "name": "vector_math",
-      "version": "2.1.4",
+      "name": "sky_engine",
+      "version": "0.0.0",
       "dependencies": []
     },
     {
-      "name": "sky_engine",
-      "version": "0.0.0",
+      "name": "vector_math",
+      "version": "2.1.4",
       "dependencies": []
     },
     {

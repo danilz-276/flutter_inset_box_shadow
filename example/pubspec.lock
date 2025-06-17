@@ -62,7 +62,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  flutter_inset_box_shadow:
+  flutter_inset_box_shadow_update:
     dependency: "direct main"
     description:
       path: ".."
