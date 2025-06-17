@@ -173,7 +173,7 @@
       "name": "example",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.16"
+      "languageVersion": "3.8"
     }
   ],
   "generator": "pub",

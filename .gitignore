@@ -1,3 +1,6 @@
 
 # FVM Version Cache
 .fvm/
+example/build/
+example/web/
+example/windows/
